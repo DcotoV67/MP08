@@ -38,6 +38,7 @@ public class RegisterActivity extends AppCompatActivity {
 
                 //Creamos un booleano llamado error con el que comprobaremos si hay algun campo vacio
                 //Si encontramos un campo vacio el valor del booleano error pasara a ser TRUE asi que nos dará un error
+                //Comentario de ejemplo
 
                 boolean error = false;
 
